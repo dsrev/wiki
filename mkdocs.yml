@@ -1,0 +1,38 @@
+site_name: IP's wiki
+
+theme:
+  name: material
+  font: false
+  logo: assets/img/logo.svg
+  favicon: assets/img/favicon.png
+  icon:
+    repo: fontawesome/brands/github-alt
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      toggle:
+        icon: material/lightbulb
+        name: Switch to light mode
+
+plugins:
+  - git-revision-date
+
+repo_url: https://github.com/dsrev/wiki
+repo_name: dsrev/wiki
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dsrev
+    - icon: fontawesome/brands/mastodon
+      link: https://mstdn.social/@dsrev
