@@ -4,15 +4,24 @@ on:
     branches:
       - master 
       - main
+
 jobs:
   deploy:
+    name: Deploy wiki
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v3
         with:
           python-version: 3.x
-      - run: pip install \
-               mkdocs-material \
-               mkdocs-git-revision-date-plugin
-      - run: mkdocs gh-deploy --force
+
+      - name: Install Python dependencies
+        run: |
+          pip install mkdocs-material
+          pip install mkdocs-git-revision-date-plugin
+
+      - name: Deploy website
+        run: mkdocs gh-deploy --force
