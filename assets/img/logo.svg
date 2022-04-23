@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="logo.svg" inkscape:version="1.0 (4035a4fb49, 2020-05-01)" id="svg8" version="1.1" viewBox="0 0 348.45624 368.56458" height="368.56458mm" width="348.45624mm">
+  <defs id="defs2"/>
+  <sodipodi:namedview inkscape:window-maximized="1" inkscape:window-y="0" inkscape:window-x="0" inkscape:window-height="692" inkscape:window-width="1366" fit-margin-bottom="0" fit-margin-right="0" fit-margin-left="0" fit-margin-top="0" inkscape:snap-global="false" showgrid="false" inkscape:document-rotation="0" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:cy="776.56685" inkscape:cx="21.338658" inkscape:zoom="0.33168923" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base"/>
+  <metadata id="metadata5">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(89.597542,89.534698)" id="layer1" inkscape:groupmode="layer" inkscape:label="h">
+    <path id="path1931" d="M -89.597542,131.78827 V -15.320066 l 26.458333,-26.457341 26.458332,-26.457341 V 78.873584 225.98193 l -26.458332,26.45733 -26.458333,26.45732 z M -15.514211,57.639282 V -89.534698 H 121.60597 258.72614 L 154.74503,14.446686 50.763912,118.42807 50.696848,81.056783 50.629787,43.685494 90.780897,3.5337322 130.93201,-36.618032 H 84.167232 37.402454 v 94.258309 94.258303 l -26.458332,26.45734 -26.458333,26.45733 z" style="fill:#FFFFFF;stroke-width:0.264583"/>
+  </g>
+</svg>
